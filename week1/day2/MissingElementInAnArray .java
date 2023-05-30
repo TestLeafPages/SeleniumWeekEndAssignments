@@ -1,6 +1,6 @@
 package week1.day2.classroom.arrays;
 
-public class MissingElementInAnArray {
+public class FindFirstMissingElementInAnArray {
 
 	public static void main(String[] args) {
 		// Here is the input
